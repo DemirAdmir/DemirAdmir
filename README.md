@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/DemirAdmir/DemirAdmir/blob/main/images/javascript.svg?raw=true)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backen-End Development
-
-![nodejs](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.JS&logoColor=FFFFFF)
-![express](https://img.shields.io/badge/ExpressJs-AAAAAA?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
 ### Front-End Development
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
@@ -42,6 +37,11 @@ Here are some ideas to get you started:
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backen-End Development
+
+![nodejs](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.JS&logoColor=FFFFFF)
+![express](https://img.shields.io/badge/ExpressJs-AAAAAA?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 ### Cross Platform Development
 
