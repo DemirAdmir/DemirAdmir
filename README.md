@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Admir Demir, a **Software Engineer** (specializing in **Font end, and Javascript eco-system**) working as Front end developer.
+I am Admir Demir, a **Software Engineer** (specializing in **ReactJS (Fontend), and Python (backend) **) working as Full-stack developer.
 
 <!--
 **DemirAdmir/DemirAdmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
