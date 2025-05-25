@@ -3,9 +3,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/admirdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/admirdemir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/admirdemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/admirdemir/" height="30" width="40" /></a>
-<a href="/www.admirdemir.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.admirdemir.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/admirdemir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Admir%20Demir-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/admirdemir" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@admirdemir-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.admirdemir.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-admirdemir.com-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
